@@ -6,7 +6,7 @@
   
   * I’m currently working on mobile development 
   * I’m currently learning [React Native Framework](https://github.com/cerenbulbul/PedigreeAll_Mobile)
-  * Ask me about anything [here](cerenbulbul27@gmail.com)
+  * Ask me about anything : cerenbulbul27@gmail.com
 
   **Languages and Tools**
   
