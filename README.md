@@ -1,11 +1,10 @@
 
   # Hi there 👋, I am [Ceren!](http://cerenbulbul.mypressonline.com/). 
   
-  Hi, I'm Ceren, a senior student in computer science and engineering from Turkey.
+  Hi, I'm Ceren.
   
   
   * I’m currently working on mobile development 
-  * I’m currently learning [React Native Framework](https://github.com/cerenbulbul/PedigreeAll_Mobile)
   * Ask me about anything : cerenbulbul27@gmail.com
 
   **Languages and Tools**
