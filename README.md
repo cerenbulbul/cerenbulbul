@@ -4,7 +4,7 @@
   Hi, I'm Ceren.
   
   
-  * I’m currently working on mobile development 
+  * I’m currently working on software development 
   * Ask me about anything : cerenbulbul27@gmail.com
 
   **Languages and Tools**
